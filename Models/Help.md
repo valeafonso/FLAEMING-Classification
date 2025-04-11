@@ -1,2 +1,3 @@
+To open each model, we recommend you to use the joblib.load function (https://joblib.readthedocs.io/en/latest/generated/joblib.load.html).
 
-![image](https://github.com/user-attachments/assets/bb7b98d9-1597-424b-8c99-046b9eb6c57e)
+In order to run these models, the target dataframe must have the features described in the corresponding paper.
