@@ -4,5 +4,5 @@ In this repository you can find the notebooks essential to mimic the work descri
 
 If only interested in applying the models, you can also find them already trained and optimized in the folder "Models" together with a brief tutorial of how to access them. Additionally, the predictions table is also directly available.
 
-For more questions, please contact me: Afonso.Vale@astro.up.pt
+For more questions, please contact me: Afonso.Vale@astro.up.pt, or directly submit an issue here.
 
